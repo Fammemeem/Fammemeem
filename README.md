@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **Test Automation**
 
-- 💬 Ask me about **Manual Testing, API Testing**
+- 💬 Ask me about **Manual Testing, API Testing, Performance Testing**
 
 - 📫 How to reach me **fammemeem2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/famme-akter-meem-a3685a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="famme-akter-meem-a3685a227" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,5 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fammemeem&show_icons=true&locale=en" alt="fammemeem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fammemeem&" alt="fammemeem" /></p>
-
 
