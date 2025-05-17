@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Test Automation**
 
-- 💬 Ask me about **Manual Testing, API Testing, Performance Testing**
+- 💬 Ask me about **Software Development, Software Documentation, Software Testing, Manual Testing, Functional Testing, API Testing, Performance Testing**
 
 - 📫 How to reach me **fammemeem2@gmail.com**
 
